@@ -9,6 +9,9 @@ without using a proxy.
 
 Download the start.py and rules.json file to the same folder, click start.py and you are good to go.
 
+## pkuanvil post
+https://www.pkuanvil.com/topic/755/
+
 ## References
 https://github.com/SpaceTimee/Cealing-Host/blob/main/Cealing-Host.json
 
