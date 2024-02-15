@@ -8,3 +8,8 @@ These rules allow you to visit a handful of websites (including githubï¼Œredditï
 without using a proxy.
 
 Download the start.py and rules.json file to the same folder, click start.py and you are good to go.
+
+## References
+https://github.com/SpaceTimee/Cealing-Host/blob/main/Cealing-Host.json
+
+https://github.com/Manicsteiner/TCPioneer-Hmoegirl/blob/main/default.conf
