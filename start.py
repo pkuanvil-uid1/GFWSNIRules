@@ -23,7 +23,7 @@ def get_chrome_path():
     # Modify your chrome install path here
     os_platform = platform.system()
     if os_platform == "Windows":
-        return r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+        return r'"C:\Program Files\Google\Chrome\Application\chrome.exe"'
     elif os_platform == "Linux":
         return "google-chrome"
     else:
