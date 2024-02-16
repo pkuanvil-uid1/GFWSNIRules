@@ -54,6 +54,8 @@
 		"MAP *.pximg.net 210.140.139.133",
 
 		"MAP web.archive.org 207.241.237.3",
+		"MAP web-static.archive.org 207.241.237.2",
+		"MAP polyfill.archive.org 207.241.239.242",
 		"MAP *.archive.org 207.241.224.2",
 		"MAP archive.org 207.241.224.2",
 		"MAP joinpeertube.org 94.130.212.178",
