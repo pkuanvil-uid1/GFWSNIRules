@@ -8,6 +8,7 @@ These rules allow you to visit a handful of websites (including githubï¼Œredditï
 without using a proxy.
 
 Download the start.py and rules.json file to the same folder, click start.py and you are good to go.
+Note: You need to close all existing chrome window before using this script.
 
 ## pkuanvil post
 https://www.pkuanvil.com/topic/755/
