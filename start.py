@@ -47,4 +47,5 @@ rules = parse_rules("rules.json")
 command_line = generate_command_line(rules)
 
 # Run the command
+print(command_line)
 subprocess.run(command_line, shell=True)
