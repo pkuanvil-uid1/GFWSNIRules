@@ -63,7 +63,7 @@
 		"MAP *.pkuanvil.com gcore.com"
 	],
 	"host-resolver-rules": [
-		"MAP gcore.com 92.223.84.84",
-		"MAP *.gcore.com 92.223.84.84"
+		"MAP gcore.com 92.223.84.79",
+		"MAP *.gcore.com 92.223.84.79"
 	]
 }
