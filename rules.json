@@ -1,6 +1,7 @@
 {
 	"host-rules": [
 		"MAP docs.rsshub.app www.netlify.com",
+                "MAP *.netlify.app www.netlify.com",
 
 		"MAP mikuclub.cc 206.233.135.213",
 		"MAP *.mikuclub.cc 206.233.135.213",
